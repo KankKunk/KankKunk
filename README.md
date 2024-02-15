@@ -1,23 +1,25 @@
-# Halo, Saya [Nama Anda]! 👋
+# Hi there, I'm Ariiq Rizqian Hamzah! 👋
 
-## Tentang Saya
-Saya seorang pengembang perangkat lunak dengan minat khusus dalam pengembangan web dan kecerdasan buatan. Saya suka mengeksplorasi teknologi baru dan berkontribusi pada proyek-proyek sumber terbuka.
+## About Me
+I'm a undergraduate informatics student with a special interest in Cloud computing and Database thing . I love exploring new technologies and contributing to open-source projects.
 
-- 🌱 Saya sedang belajar dan terus meningkatkan keterampilan saya di bidang frontend dan machine learning.
-- 💼 Saya saat ini bekerja sebagai [posisi Anda] di [perusahaan/organisasi Anda].
-- 💬 Jangan ragu untuk berdiskusi dengan saya tentang pengembangan web, machine learning, atau apa pun yang menarik bagi Anda!
+- 🌱 I’m currently learning and improving my skills in Cloud Computing.
+- 💼 I'm currently learning as a Students at Gunadarma University And Dicoding Bangkit Academy.
+- 💬 Feel free to discuss with me about Web Development, Cloud Computing, or anything else that interests you!
 
-## Proyek Terbaru
-- [Proyek 1](link_proyek_1): Deskripsi singkat atau tagline.
-- [Proyek 2](link_proyek_2): Deskripsi singkat atau tagline.
+## Find Me 
+- 🐦 Instagram : https://www.instagram.com/ariizky2003/?igsh=MTR3M2N0ZjZkcGpjMA%3D%3D
+- 💼 LinkedIn : https://www.linkedin.com/in/ariiq-rizqian-hamzah-48822022b/
+- ✉️ Contact me at Email: ariqrizqian2003@gmail.com
 
-## Temukan Saya
-- 🐦 [Twitter](link_twitter)
-- 💼 [LinkedIn](link_linkedin)
-- 🌐 [Website](link_website)
+## GitHub Statistics
+<p align="left">
+  <a href="https://github.com/KankKunk">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KankKunk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/KankKunk">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KankKunk&layout=compact&theme=algolia"/>
+  </a>
+</p>
 
-## Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=nama_pengguna&show_icons=true&theme=dark)
 
-## Bahasa Pemrograman yang Sering Saya Gunakan
-![Top Bahasa](https://github-readme-stats.vercel.app/api/top-langs/?username=nama_pengguna&layout=compact&theme=dark)
